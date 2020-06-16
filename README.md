@@ -24,3 +24,4 @@ This flow basically summarizes the project. It begins with :
 
 
 UI of the chatbot can be found at : https://node-red-kzwvf.mybluemix.net/ui 
+Link to Youtube Video : https://youtu.be/pr8u4S-dNyc
